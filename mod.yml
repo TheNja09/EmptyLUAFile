@@ -1,0 +1,5 @@
+assets:
+- name: scripts/emptylua.lua
+  method: copy
+  source:
+  - name: emptylua.lua
