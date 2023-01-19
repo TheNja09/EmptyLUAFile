@@ -1,7 +1,7 @@
 title: Empty Lua File
-description: Gives you a blank .lua file (courtesy of Num) inside your OpenKH scripts folder to use when creating mods!
+description: Gives you a premade .lua file (courtesy of Num) inside your OpenKH scripts folder to use when creating mods!
 assets:
-- name: scripts/emptylua.lua
+- name: scripts/F266B00B emptylua.lua
   method: copy
   source:
-  - name: emptylua.lua
+  - name: F266B00B emptylua.lua
